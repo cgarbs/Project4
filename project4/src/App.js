@@ -17,6 +17,7 @@ function App() {
         >
           Learn React
         </a>
+        <h1>Practice your React skills.</h1>
         <p>Learn WordPress, backend languages like Laravel (PHP) or Python/Django!</p>
       </header>
     </div>
